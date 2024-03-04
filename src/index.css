@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-shadow: 1.5px 1.5px #d1d5db;
+}
