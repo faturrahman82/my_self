@@ -11,7 +11,7 @@ export default function App() {
   return (
     <main className="bg-black text-white h-screen ">
       <div className="flex justify-center items-center h-full">
-        <h1 className=" font-normal text-gray-400 text-3xl tracking-wide shadow-white">
+        <h1 className="font-normal text-gray-400 lg:text-3xl md:text-2xl sm:text-xl xs:text-lg tracking-wide shadow-white">
           <Typewriter
             words={newText}
             loop={false}
